@@ -1,2 +1,2 @@
-# to-street-trees
-Exploring Toronto street trees
+# Exploration of street trees in Toronto (with R). 
+This repo contains some analysis of street trees in the city of Toronto. The datasets are obtained from <a href="www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD"> City of Toronto open data catalogue </a>. Two datasets are used: <a href="http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=5af95104c26f3310VgnVCM1000003dd60f89RCRD&vgnextchannel=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD"> street tree data </a> (as of March 2012) and <a href="http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=04b489fe9c18b210VgnVCM1000003dd60f89RCRD&vgnextchannel=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD"> boundaries of Toronto neighborhoods data </a> (as of June 6, 2014). 
